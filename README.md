@@ -36,8 +36,9 @@
 #### Transformer in computer vision
 - DETR
 - ViT
+- BEiT
 - DeiT
-- Swin
-- CS
+- Swin-Transformer
+- CSWin-Transformer
 #### Optimizer
 - Lion https://arxiv.org/abs/2302.06675
