@@ -32,6 +32,12 @@
 
 ##### GPT-4
 - https://arxiv.org/pdf/2303.08774.pdf
+
+##### Sparks of Artificial General Intelligence: Early experiments with GPT-4
+- [https://arxiv.org/pdf/2303.08774.pdf](https://arxiv.org/abs/2303.12712)
+
+#### GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models
+- https://arxiv.org/abs/2303.10130
 ##### LLaMa
 - https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 - https://github.com/facebookresearch/llama
