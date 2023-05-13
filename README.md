@@ -19,7 +19,7 @@
 #### Blog
 - https://wqw547243068.github.io/
 
-
+##### GPT-4
 ##### LLaMa
 - https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 - https://arxiv.org/abs/2302.13971
@@ -29,3 +29,4 @@
 
 ##### Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
+##### MiniGPT-4
