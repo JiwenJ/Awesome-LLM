@@ -19,6 +19,18 @@
 #### Blog
 - https://wqw547243068.github.io/
 
+
+
+##### GPT
+- https://arxiv.org/pdf/2303.08774.pdf
+
+##### GPT-2
+[https://arxiv.org/pdf/2303.08774.pdf](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+##### GPT-3
+[https://arxiv.org/pdf/2303.08774.pdf](https://arxiv.org/abs/2005.14165)
+
+https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 ##### GPT-4
 - https://arxiv.org/pdf/2303.08774.pdf
 ##### LLaMa
