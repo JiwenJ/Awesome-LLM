@@ -39,3 +39,5 @@
 - DeiT
 - Swin
 - CS
+#### Optimizer
+- Lion https://arxiv.org/abs/2302.06675
