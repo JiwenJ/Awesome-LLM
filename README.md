@@ -83,6 +83,7 @@
 
 #### Benchmark
 - https://super.gluebenchmark.com/leaderboard
+- https://chat.lmsys.org/?arena
 
 #### Course
 - https://zhuanlan.zhihu.com/p/50910925
