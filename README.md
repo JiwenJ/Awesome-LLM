@@ -36,6 +36,6 @@
 #### Transformer in computer vision
 - DETR
 - ViT
-- CLIP
+- DeiT
 - Swin
 - CS
