@@ -36,7 +36,7 @@
 #### Transformer in computer vision
 - DETR
 - ViT
-- BEiT
+- DeiT
 - Swin
 - CS
 #### Optimizer
