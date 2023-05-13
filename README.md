@@ -61,6 +61,7 @@
 #### Blip2
 - https://github.com/salesforce/LAVIS/tree/main/projects/blip2
 - https://arxiv.org/abs/2301.12597
+- https://pub.towardsai.net/minigpt-4-chatgpt-for-your-images-ac111a5b288a
 ##### MiniGPT-4
 - https://github.com/Vision-CAIR/MiniGPT-4
 - 
