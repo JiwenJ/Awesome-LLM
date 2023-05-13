@@ -18,3 +18,14 @@
 
 #### Blog
 - https://wqw547243068.github.io/
+
+
+##### LLaMa
+- https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
+- https://arxiv.org/abs/2302.13971
+
+##### Vicuna
+- https://lmsys.org/blog/2023-03-30-vicuna/
+
+##### Alpaca
+- https://crfm.stanford.edu/2023/03/13/alpaca.html
