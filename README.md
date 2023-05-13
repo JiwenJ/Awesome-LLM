@@ -30,3 +30,12 @@
 ##### Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
 ##### MiniGPT-4
+
+
+
+#### Transformer in computer vision
+- DETR
+- ViT
+- CLIP
+- Swin
+- CS
