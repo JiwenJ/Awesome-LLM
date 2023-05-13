@@ -88,3 +88,7 @@
 - https://zhuanlan.zhihu.com/p/50910925
 #### Tutorial
 - https://mp.weixin.qq.com/s/4QNgF6nAUo8imSaIB_OWmg
+
+
+#### transformers are Sample-Efficient World Models
+- https://arxiv.org/abs/2209.00588
