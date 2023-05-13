@@ -30,6 +30,9 @@
 ##### GPT-3
 [https://arxiv.org/pdf/2303.08774.pdf](https://arxiv.org/abs/2005.14165)
 
+##### Instruct GPT 
+- https://arxiv.org/abs/2203.02155
+
 ##### GPT-4
 - https://arxiv.org/pdf/2303.08774.pdf
 
