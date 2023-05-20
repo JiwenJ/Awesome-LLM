@@ -1,4 +1,5 @@
 # LLM
+### Video 
 #### Li  Hungy-yi
 - https://speech.ee.ntu.edu.tw/~hylee/index.php
 #### Li  Mu
@@ -11,15 +12,12 @@
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/thunlp/PLMpapers
 
-
+### Paper & Blog
 #### Paper Must Read
 - https://arxiv.org/abs/2303.18223
 
-
 #### Blog
 - https://wqw547243068.github.io/
-
-
 
 ##### GPT
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
