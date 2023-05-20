@@ -99,4 +99,5 @@
 #### Blog
 - https://zhuanlan.zhihu.com/p/618894319
 #### Project
--  https://github.com/tloen/alpaca-lora
+##### https://github.com/tloen/alpaca-lora
+> tips: https://www.reddit.com/r/Oobabooga/comments/12eniem/bitsandbytes_now_for_windows_8bit_cuda_functions/
