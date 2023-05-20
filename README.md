@@ -96,3 +96,7 @@
 - https://arxiv.org/abs/2209.00588
 
 ### Finetune Tutorial
+#### Blog
+- https://zhuanlan.zhihu.com/p/618894319
+#### Project
+-  https://github.com/tloen/alpaca-lora
