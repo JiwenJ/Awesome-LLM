@@ -107,8 +107,8 @@
 ## Prompt Engineering
 | Date | Paper | Info| Innovation|Implementation|
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | 1|1  |1  |1  |
-| 1 | 1|1  |1  |1  |
+| 2021-09-03 |Finetuned Language Models Are Zero-Shot Learners|Zero-Shot |1  |1  |
+| 2022-01-28 |Chain-of-Thought Prompting Elicits Reasoning in Large Language Models|CoT|1  |1  |
 | 1 | 1|1  |1  |1  |
 | 1 | 1|1  |1  |1  |
 | 1 | 1|1  |1  |1  |
@@ -118,6 +118,9 @@
 
 
 ### Reference
+- https://learnprompting.org/docs/intro
+- https://www.promptingguide.ai/
+- https://mattnigh.github.io/ChatGPT3-Free-Prompt-List/
 
 ---
 ### Finetune Tutorial
