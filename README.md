@@ -1,4 +1,4 @@
-# LLM
+# Awesome-LLM
 ### Video 
 #### Li  Hungy-yi
 - https://speech.ee.ntu.edu.tw/~hylee/index.php
