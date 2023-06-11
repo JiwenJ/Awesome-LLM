@@ -6,7 +6,7 @@
 
 
 #### Step 1
-Install [fastchat](https://github.com/lm-sys/FastChat), and please use method 2, method 1 seems useless at least in my several tries.
+Install [fastchat](https://github.com/lm-sys/FastChat), and use method 2. Method 1 seems useless at least in my several tries.
 
 #### Step 2
 Get LLaMA model and weights
