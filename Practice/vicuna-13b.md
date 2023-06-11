@@ -16,11 +16,13 @@ Get LLaMA model and weights
 Get vicuna model and weights
 
 #### Step 4
-combine them
+convert llama model into huggingface format
 
 #### Step 5
-combine them
-
+conbime llama-hf and vicuva-13b delta weight to get whole complete model
+```python
+python3 -m fastchat.model.apply_delta --base /root/llama-13b-hf --delta /root/vicuna-13b-delta-v0 --target /root/vicuna-13b 
+```
 
 ```
 .File
