@@ -21,7 +21,7 @@ convert llama model into huggingface format
 #### Step 5
 conbime llama-hf and vicuva-13b delta weight to get whole complete model
 ```python
-python3 -m fastchat.model.apply_delta --base /root/llama-13b-hf --delta /root/vicuna-13b-delta-v0 --target /root/vicuna-13b 
+python3 -m fastchat.model.apply_delta --base /root/autodl-tmp/model/llama-13b-hf --delta /root/autodl-tmp/vicuna_data/vicuna-13b-delta-v1.1 --target /root/autodl-tmp/vicuna-13b 
 ```
 
 ```
