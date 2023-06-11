@@ -22,8 +22,8 @@ combine them
 combine them
 
 
-
-|=File
+```
+.File
 |--pyllama
 |--pyllama
     |-- 13B (raw data)
@@ -35,3 +35,4 @@ combine them
 |-- vicuna-13b-delta-v1.1 (delta weights)
 |-- llama-13-hf (huggingface data from 13B raw data)
     |--pytorch_model-00000-of-00041.bin
+```
