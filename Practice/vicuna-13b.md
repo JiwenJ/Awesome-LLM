@@ -20,3 +20,18 @@ combine them
 
 #### Step 5
 combine them
+
+
+
+|=File
+|--pyllama
+|--pyllama
+    |-- 13B (raw data)
+        |--consolidated.00.pth
+        |--consolidated.01.pth
+        |--..
+    |-- 7B (raw data)
+    |--tokenizer.model
+|-- vicuna-13b-delta-v1.1 (delta weights)
+|-- llama-13-hf (huggingface data from 13B raw data)
+    |--pytorch_model-00000-of-00041.bin
