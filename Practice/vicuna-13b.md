@@ -26,8 +26,18 @@ conbime llama-hf and vicuva-13b delta weight to get whole complete model
 ```python
 python3 -m fastchat.model.apply_delta --base /root/autodl-tmp/model/llama-13b-hf --delta /root/autodl-tmp/vicuna_data/vicuna-13b-delta-v1.1 --target /root/autodl-tmp/vicuna-13b 
 ```
-python3 -m fastchat.serve.controller --port 21001 --host 127.1.1.1
+#### Step 6
+Deploy
+```python
+python3 -m fastchat.serve.controller --host "127.1.1.1"
 ```
+```python
+python -m fastchat.serve.model_worker --model-path /root/autodl-tmp/vicuna-13b --controller-address http://127.1.1.1:21001 --port 21002 --worker-address "http://127.1.1.1:21002" --num-gpu 2 --host 127.1.1.1
+```
+```python
+python -m  fastchat.serve.gradio_web_server --controller-url http://127.1.1.1:21001 --host 127.1.1.1  --port 21004
+```
+
 .File
 |--pyllama
 |--pyllama
