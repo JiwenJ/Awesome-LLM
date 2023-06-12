@@ -7,6 +7,10 @@
 - https://github.com/lm-sys/FastChat/issues/244
 - https://github.com/lm-sys/FastChat/blob/main/fastchat/serve/model_worker.py
 - https://github.com/lm-sys/FastChat
+- https://zhuanlan.zhihu.com/p/619551575
+- https://www.zhihu.com/tardis/zm/art/624012908?source_id=1005
+- https://zhuanlan.zhihu.com/p/620801429
+- https://github.com/lm-sys/FastChat/pull/427
 
 
 #### Step 1
