@@ -35,7 +35,7 @@ conbime llama-hf and vicuva-13b delta weight to get whole complete model
 python3 -m fastchat.model.apply_delta --base /root/autodl-tmp/model/llama-13b-hf --delta /root/autodl-tmp/vicuna_data/vicuna-13b-delta-v1.1 --target /root/autodl-tmp/vicuna-13b 
 ```
 #### Step 6
-### Deploy
+##### Deploy
 controller
 ```python
 python3 -m fastchat.serve.controller --host "127.1.1.1"
