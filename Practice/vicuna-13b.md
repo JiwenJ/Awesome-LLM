@@ -17,6 +17,9 @@ Get vicuna model and weights
 
 #### Step 4
 convert llama model into huggingface format
+```python
+python ./convert_llama_weights_to_hf.py  --input_dir /path/to/downloaded/llama/weights --model_size 13B --output_dir ./path
+```
 
 #### Step 5
 conbime llama-hf and vicuva-13b delta weight to get whole complete model
