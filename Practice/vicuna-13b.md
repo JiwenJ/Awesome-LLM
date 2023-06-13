@@ -43,7 +43,7 @@ python3 -m fastchat.serve.controller --host "127.1.1.1"
 ```
 worker
 ```python
-python -m fastchat.serve.model_worker --model-path /root/autodl-tmp/vicuna-13b --controller-address http://127.1.1.1:21001 --port 21002 --worker-address "http://127.1.1.1:21002" --num-gpu 2 --host 127.1.1.1
+python -m fastchat.serve.model_worker --model-name 'vicuna-13b' --model-path /root/autodl-tmp/vicuna-13b --controller-address http://127.1.1.1:21001 --port 21002 --worker-address "http://127.1.1.1:21002" --num-gpu 2 --host 127.1.1.1
 ```
 web ui
 ```python
