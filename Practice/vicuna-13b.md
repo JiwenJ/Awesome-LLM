@@ -52,7 +52,7 @@ python -m  fastchat.serve.gradio_web_server --controller-url http://127.1.1.1:21
 
 api
 ```python
-python3 -m fastchat.serve.openai_api_server --host 127.1.1.1 --port 8000
+python3 -m fastchat.serve.openai_api_server --host 127.1.1.1 --port 8000 --controller-address http://127.1.1.1:21001
 ```
 ### Overall File Structure
 ```
