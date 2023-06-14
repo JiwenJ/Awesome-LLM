@@ -47,7 +47,7 @@ python -m fastchat.serve.model_worker --model-name 'vicuna-13b' --model-path /ro
 ```
 web ui
 ```python
-python -m  fastchat.serve.gradio_web_server --controller-url http://127.1.1.1:21001 --host 127.1.1.1  --port 21004
+python -m  fastchat.serve.gradio_web_server --controller-url http://127.1.1.1:21001 --host 127.1.1.1  --port 21004 --share
 ```
 
 api
