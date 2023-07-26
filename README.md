@@ -8,7 +8,7 @@
 
 
 ---
-### Video 
+### Video
 #### Li  Hungy-yi
 - https://speech.ee.ntu.edu.tw/~hylee/index.php
 #### Li  Mu
@@ -16,7 +16,7 @@
 #### Andrew Ng
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 -
-#### Awesome LLM 
+#### Awesome LLM
 - https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes
 - https://github.com/Hannibal046/Awesome-LLM
 - https://github.com/thunlp/PLMpapers
@@ -37,7 +37,7 @@
 ##### GPT-3
 [https://arxiv.org/pdf/2303.08774.pdf](https://arxiv.org/abs/2005.14165)
 
-##### Instruct GPT 
+##### Instruct GPT
 - https://arxiv.org/abs/2203.02155
 
 ##### GPT-4
@@ -74,8 +74,8 @@
 - https://pub.towardsai.net/minigpt-4-chatgpt-for-your-images-ac111a5b288a
 ##### MiniGPT-4
 - https://github.com/Vision-CAIR/MiniGPT-4
-- 
-- 
+-
+-
 #### Claude
 - https://www.anthropic.com/index/introducing-claude
 
