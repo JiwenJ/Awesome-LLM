@@ -22,11 +22,20 @@
 - https://github.com/thunlp/PLMpapers
 
 ### Paper & Blog
+
+#### LLMs Survey
+
+- [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)
+- [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+
 #### Paper Must Read
 - https://arxiv.org/abs/2303.18223
 
 #### Blog
 - https://wqw547243068.github.io/
+- [符尧](https://franxyao.github.io/)
+- [A kar]()
+- 
 
 ##### GPT
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
