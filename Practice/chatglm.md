@@ -1,10 +1,15 @@
 # <div align="center"> ChatGLM Series</div>
-- ChatGLM2
+
 - ChatGLM
+- ChatGLM2
+
+## ChatGLM
+### Introduction
+
 
 
 ## ChatGLM2
-### New Features and techniques
+### New features and techniques
 
 
 
